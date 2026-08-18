@@ -10,7 +10,7 @@ Cybersecurity portfolio showcasing practical home lab deployments &amp; risk ass
 With the goal of simulating real-world Security Operations Center (SOC) workdflows, all simulation reports in this repository attempt
 to adhere to professional reporting standards:
 * **Framework:** Simulations are mapped directly to the MITRE ATTACK Framework to main industry-standard threat taxonomy.
-* **BLUF (Bottom Line Upfront):** Each report will begin a high-level executive summary and detection status for rapid overview.
+* **BLUF (Bottom Line Up Front):** Each report will begin a high-level executive summary and detection status for rapid overview.
 * **Evidence-Based:** ALL detections are back by raw, parsed JSON telemetry from Sysmon and Wazuh.
 * **Mitigations:** Hardening recommendations are based on defense in-depth principles (ie. AppLocker, GPO, PowerShell hardening).
 ---
