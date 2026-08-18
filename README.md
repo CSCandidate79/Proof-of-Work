@@ -1,4 +1,4 @@
-Cybersecurity portfolio showcasing practical home lab deployments &amp; risk assessments. Features defensive engineering, security hardening, and technical remediation documentation. Powered by a strong operational foundation, CompTIA Security+, and active progression toward the CISSP.
+Cybersecurity portfolio showcasing practical home lab deployments &amp; risk assessments. Features documentation of defensive engineering, security hardening, and technical remediation. Powered by a strong operational foundation, CompTIA Security+, and active progression toward the CISSP-Associate.
 ---
 ## Lab Architecture & Tools
 * **Virtual Software Platform:** VMWare Workstation Pro
