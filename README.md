@@ -7,7 +7,7 @@ Cybersecurity portfolio showcasing practical home lab deployments &amp; risk ass
 * **Target Endpoint:** Windows 11 Enterprise with Microsoft Sysmon installed and forwarding events.
 * **Attack Emulation Platform:** AtomicRedTeam
 ---
-## Documenting of Simuulations
+## Documenting of Simulations
 With the goal of simulating real-world Security Operations Center (SOC) workdflows, all simulation reports in this repository attempt
 to adhere to professional reporting standards:
 * **Framework:** Simulations are mapped directly to the MITRE ATTACK Framework to main industry-standard threat taxonomy.
